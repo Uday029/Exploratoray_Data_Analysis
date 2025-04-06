@@ -1,5 +1,6 @@
 # Exploratoray_Data_Analysis
-This project involves a comprehensive Exploratory Data Analysis (EDA) on a hospital dataset to uncover insights related to patient demographics, hospital stay durations, diagnoses, treatment outcomes, and other healthcare-related variables. The goal is to identify patterns, anomalies, and trends that could assist in improving healthcare 
+This project involves a comprehensive Exploratory Data Analysis (EDA) on a hospital dataset to uncover insights related to patient demographics, hospital stay durations, diagnoses, treatment outcomes, and other healthcare-related variables. The goal is to identify patterns, anomalies, and trends that could assist in improving healthcare.
+
 # 🏥 Hospital Inpatient Characteristics Analysis
 
 This project explores inpatient hospitalization data across U.S. counties by sex and geography. Using Python-based data visualization, we uncover insights into healthcare demographics and disparities.
