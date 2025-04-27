@@ -37,7 +37,7 @@ The dataset includes:
 | ![](output3.png) | **Yearly Discharges Distribution** |
 | ![](output4.png) | **Distribution of Discharges** |
 | ![](output5.png) | **discharge dsch_yr Heatmap** |
-| ![](output6.png) | **discharge dsch_yr pairplot** |
+| ![](output6.png) | **discharge dsch_yr Pairplot** |
 | ![](output7.png) | **Top 10 Counties With Highest Discharges** |
 | ![](output8.png) | **Top 10 Counties By Discharges** |
 | ![](output9.png) | **Total Discharges Per Year** |
