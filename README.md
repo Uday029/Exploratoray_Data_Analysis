@@ -40,7 +40,7 @@ The dataset includes:
 | ![](output6.png) | **discharge dsch_yr Pairplot** |
 | ![](output7.png) | **Top 10 Counties With Highest Discharges** |
 | ![](output8.png) | **Top 10 Counties By Discharges** |
-| ![](output9.png) | **Total Discharges Per Year** |
+| ![](output9.png) | **Total Dischages Per Year** |
 | ![](output10.png) | **Gender-wise Distribution Of Discharges** |
 | ![](output11.png) | **Proportion of 'Other, Unknown, Invalid' Discharges** |
 
