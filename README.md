@@ -32,7 +32,7 @@ The dataset includes:
 | Chart | Description |
 |-------|-------------|
 | ![](output.png) | **dsch_yr value count** |
-| ![](output1.png) | **Distribution of Patient County (patcnty1)** |
+| ![](output1.png) | **Distribution Of Patient County (patcnty1)** |
 | ![](output2.png) | **Total Discharges Over the Years** |
 | ![](output3.png) | **Yearly Discharges Distribution** |
 | ![](output4.png) | **Distribution of Discharges** |
