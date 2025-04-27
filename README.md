@@ -11,7 +11,7 @@ This project explores inpatient hospitalization data across U.S. counties by sex
 
 The dataset includes:
 - Sex of patients (Male/Female)
-- County of residence
+- County of residenc
 - Number of inpatient discharges
 
 ---
